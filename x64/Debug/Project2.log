@@ -1,0 +1,12 @@
+﻿  test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\any(12): warning STL4038: The contents of <any> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,18): error C2065: 'any_cast': undeclared identifier
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,27): error C2059: syntax error: 'const'
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,45): error C2039: 'format': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iostream(18,1):
+      see declaration of 'std'
+  
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,95): error C2143: syntax error: missing ';' before '{'
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,95): error C2143: syntax error: missing ';' before '}'
+C:\Users\besto\source\repos\Project2\Project2\test.cpp(144,98): error C2059: syntax error: ')'
